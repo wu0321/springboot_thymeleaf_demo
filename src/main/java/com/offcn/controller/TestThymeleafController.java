@@ -97,5 +97,8 @@ public class TestThymeleafController {
 
         return "index06";
     }
+    
+    public void test02(){
+    }
 
 }
